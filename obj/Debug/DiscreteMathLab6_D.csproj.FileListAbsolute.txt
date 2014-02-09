@@ -1,0 +1,6 @@
+D:\Workspace\MS VS 2012\DiscreteMathLab6_D\DiscreteMathLab6_D\bin\Debug\DiscreteMathLab6_D.exe.config
+D:\Workspace\MS VS 2012\DiscreteMathLab6_D\DiscreteMathLab6_D\obj\Debug\DiscreteMathLab6_D.csprojResolveAssemblyReference.cache
+D:\Workspace\MS VS 2012\DiscreteMathLab6_D\DiscreteMathLab6_D\bin\Debug\DiscreteMathLab6_D.exe
+D:\Workspace\MS VS 2012\DiscreteMathLab6_D\DiscreteMathLab6_D\bin\Debug\DiscreteMathLab6_D.pdb
+D:\Workspace\MS VS 2012\DiscreteMathLab6_D\DiscreteMathLab6_D\obj\Debug\DiscreteMathLab6_D.exe
+D:\Workspace\MS VS 2012\DiscreteMathLab6_D\DiscreteMathLab6_D\obj\Debug\DiscreteMathLab6_D.pdb
